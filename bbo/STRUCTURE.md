@@ -4,33 +4,43 @@
 
 ## Structural Components
 
-- Logline: An alien virus that copies its hosts takes over the staff of an arctic station.
+- Logline: A mutiny breaks out among an elite military unit over a technology that threatens to render them all obsolete.
 
-- Theme: You can’t hide who you are when things get heated.
+1. Philosophical Idea/Theme: The Übermensch meets the Ship of Theseus.
 
----
+   - Subthemes: Eternal Recurrence.
 
-1. # First Scene: A helicopter chases and shoots at a dog in Antarctica.
+1. Classic Literature/Movies for Inspiration: _The Thing (1982)_.
 
-1. # Final Scene: MacReady and Childs freeze, unsure which is alien.
+   - Twist: Space Western.
 
----
+1. Modern Sci-fi Setting/Gimmick: A world with memory manipulation.
 
-1. ## Act One: Americans take in the Norwegians’ dog, investigate their station.
-
-1. ## Act Two: Turning into aliens and turning on each other. (Act Two, Part One is realizing what they’re dealing with. Act Two, Part Two is no one trusting anyone.)
-
-1. ## Act Three: Knowing they’ll die, humans must kill the aliens.
+1. Cool Action Gimmick: Precog (including shared precog via memory transfer).
 
 ---
 
-1. ### Inciting: The American station takes in the mysterious Husky.
+1. # First Scene: Gideon destroys his best friend's corpse to make sure he's forgotten.
 
-1. ### PPI: The Husky shows what it can do – attacking, killing, mimicking other creatures.
+1. # Final Scene: Gideon retrieves the memories of a dead friend to preserve them.
 
-1. ### Pinch 1: They have to kill the first of their own, when he is infected.
+---
 
-1. ### Mid: Calm MacReady is put in charge as no one trusts anyone.
+1. ## Act One: ORION troops take in a mutineer, investigate their vehicle.
+
+1. ## Act Two: Imposters (amalgams) begin to emerge. (Act Two, Part One is realizing what they’re dealing with. Act Two, Part Two is no one trusting anyone.)
+
+1. ## Act Three: Knowing they’ll die, humans must kill the 'aliens' or become them (or become something altogther different).
+
+---
+
+1. ### Inciting: Mintaka station takes in the mysterious mutineer.
+
+1. ### PPI: The mutineer 'cargo' shows what 'it' can do – attacking, killing, mimicking other creatures.
+
+1. ### Pinch 1: They have to kill the first of their own, when he is 'infected'.
+
+1. ### Mid: Gideon is put in charge as no one trusts anyone.
 
 1. ### Pinch 2: It’s time for a blood test. MacReady kills Clark, who tries to kill him.
 
