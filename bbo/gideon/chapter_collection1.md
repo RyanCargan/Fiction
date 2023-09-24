@@ -1,4 +1,17 @@
-# Prologue
+# Prologue: The City that Never Wakes
+
+## The Scorched
+
+First scene.
+
+2nd paragraph of first scene.
+Still in 2nd paragraph of first scene.
+
+## Trapped in Dreams
+
+Second scene.
+
+# Chapter 1
 
 ## Wolf among the sheep
 
