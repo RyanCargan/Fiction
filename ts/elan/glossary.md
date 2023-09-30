@@ -1,0 +1,5 @@
+- The Scorched
+- The Firebrand
+- Flashers/Compros
+  - Slang for "compromised individuals"
+- Rippers/Editors
